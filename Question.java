@@ -1,5 +1,3 @@
-package JavaProject1;
-
 import java.util.List;
 
 public class Question {
